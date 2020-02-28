@@ -31,4 +31,3 @@ class CubeMaker extends CuboidMaker {
             return(6 * this.length ** 2);
           }
     }
-}
